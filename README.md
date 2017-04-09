@@ -2,19 +2,19 @@
 <h1><p align="center">تبلیغ‌گر
 <h2><p align="center">سرعت 💠 دقت 💠 قدرت
 <div align="center">
-    <a href="https://telegram.me/Naji_MessengerRobot">
+    <a href="https://telegram.me/babakkhanbot">
         <img src="http://upir.ir/951/guest/Untitled-5.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/i_advansitor">
+    <a href="https://telegram.me/blackandwhiteTM">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/i_naji">
+    <a href="https://telegram.me/sudo_hacker">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
 
 <h3><p dir="rtl">تبلیغ‌گر رباتی هوشمند, بسیار ساده و البته رایگان جهت امور تبلیغاتی در تلگرام است.<br>
-نوشته شده توسط <a href="https://telegram.me/i_naji">ناجی</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
+نوشته شده توسط <a href="https://telegram.me/sudo_hacker.https://t.me/joinchat/AAAAAEHCICrG0sDpYroQGwi">ناجی</a> برپایه اخرین نسخه <a href="https://valtman.name/telegram-cli">تلگرام</a>.
 <br>
 <h3 align="right"> <strong> نصب و راه‌اندازی</strong> 🚀
 </h3>
@@ -22,7 +22,7 @@
 <h4 dir="rtl">ابتدا سورس <em>ربات تبلیغ‌گر</em> را کپی کرده و پیش‌زمینه‌ها را نصب کنید.</h4>
 <h6>(موارد زیر را در ترمینال وارد کنید)</h6>
 <pre>
-<span>git clone https://github.com/i-naji/tabchi.git -b persian</span>
+<span>git clone https://github.com/babakkhan375/tabchi.git -b persian</span>
 <span>cd tabchi</span>
 <span>chmod +x bot</span>
 <span>./bot install</span>
@@ -318,7 +318,7 @@
 <br>
 <h2 dir="rtl">پشتیبانی
 <hr>
-<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ NajiTeam ♚ <a href="https://telegram.me/i_naji"> @i_naji </a> <a href="https://telegram.me/Naji_MessengerRobot"> @Naji_MessengerRobot</a>
+<h4 dir="rtl">پذیرای انتقادات وپیشنهاداتان هستیم ♚ black & white TM ♚ <a href="https://telegram.me/sudo_hacker"> @sudo_hacker </a> <a href="https://telegram.me/babakkhanbot"> @babakkhanbot</a>
 <br>راهنمای استفاده از تبلیغ‌گر بسیار ساده و قابل درک است<br>فیلم آموزشی نصب و اطلاع از آخرین اخبار تبلیغ‌گر در کانال ما 
-<a href="https://telegram.me/i_advertiser"> @i_advertiser</a>
+<a href="https://telegram.me/blackandwhiteTM"> @blackandwhiteTM</a>
 </h4>
